@@ -4,14 +4,14 @@ public class product{
     public static void main (String args[]){
     Scanner sc = new Scanner (System.in);
 
-    System.out.println("Enter first no:");
+    System.out.print("Enter first no: ");
     int a = sc.nextInt();
 
-    System.out.println("Enter second no:");
+    System.out.print("Enter second no: ");
     int b = sc.nextInt();
 
     int product = a * b;
-    System.out.println("the product is : " + product);
+    System.out.print("the product is : " + product);
 
 }
 }
