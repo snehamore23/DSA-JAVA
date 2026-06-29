@@ -19,7 +19,7 @@ public class Assignment {
 
        int d = 20;
          //d=d/20;
-         d /= 20;
+         d /= 4;
         System.out.println ("d="+d);
 
 
