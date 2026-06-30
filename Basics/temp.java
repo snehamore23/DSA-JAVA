@@ -6,7 +6,7 @@ public class temp {
         if (temp >=100){
             System.out.print("fever");
         }else{
-            System.out.print("normal");
+            System.out.print("normall");
         }
     }
     
