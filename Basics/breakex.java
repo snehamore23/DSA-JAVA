@@ -7,6 +7,6 @@ public class breakex {
         }
         System.out.println(i);
     }
-    Sysem.out.println("out of loop");
+    System.out.println("out of loop");
     }
 }
