@@ -11,7 +11,7 @@ public class linear {
         return -1;
     }
     public static void main (String args[]){
-        int number[] ={2, 4, 6, 8, 10, 12 ,14 , 16};
+        int number[] ={2, 4, 6, 8, 10, 12 ,14 , 16,18};
         Scanner sc = new Scanner(System.in);
          System.out.print("enter String number:");
         int key = sc.nextInt();
