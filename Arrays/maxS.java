@@ -1,7 +1,7 @@
 public class maxS {
     public static void maxSubarraySum(int numbers[]){
         int currSum=0;
-        int maxSum= integer.MIN_VALUE;
+        int maxSum= Integer.MIN_VALUE;
 
         for(int i=0; i<numbers.length; i++){
             int start =i;
@@ -19,5 +19,9 @@ public class maxS {
                  }
     }
     System.out.println("max sum =" +maxSum);
+}
+public static void main (String[]args){
+int numbers[]={2,4,6,8,10};
+maxSubarraySum(numbers);
 }
 }
