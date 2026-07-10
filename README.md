@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/snehamore23/DSA-JAVA/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehamore23/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/snehamore23/DSA-JAVA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehamore23/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/snehamore23/DSA-JAVA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
