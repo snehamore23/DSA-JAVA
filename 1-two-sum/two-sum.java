@@ -1,5 +1,5 @@
 class Solution {
-    //test code 
+    //test code sol
     public int[] twoSum(int[] nums, int target) {
 
         for (int i =0; i<nums.length; i++){
